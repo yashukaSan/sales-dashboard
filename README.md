@@ -71,14 +71,14 @@ Mock data is modelled after the **[Superstore Sales dataset](https://www.kaggle.
 
 | Package | Version | Purpose |
 |---------|---------|---------|
-| next | 14.2.5 | React framework (App Router) |
-| react / react-dom | ^18 | UI rendering |
+| next | 16.1.6 | React framework (App Router) |
+| react / react-dom | ^19.2.4 | UI rendering |
 | typescript | ^5 | Type safety |
-| tailwindcss | ^3.4 | Utility-first styling |
-| recharts | ^2.12 | Composable chart components |
-| lucide-react | ^0.400 | Icon set |
-| date-fns | ^3.6 | Date utilities |
-| clsx | ^2.1 | Conditional className helper |
+| tailwindcss | ^4.2.1 | Utility-first styling |
+| recharts | ^3.8.0 | Composable chart components |
+| lucide-react | ^0.577.0 | Icon set |
+| date-fns | ^4.1.0 | Date utilities |
+| clsx | ^2.1.1 | Conditional className helper |
 
 ---
 
