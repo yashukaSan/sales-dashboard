@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-neutral-50 text-neutral-900 dark:bg-neutral-900 dark:text-neutral-50;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+
+  /* Use sans-serif for UI elements */
+  input, button, select, textarea, label {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  }
+}
